@@ -7,7 +7,7 @@
 //
 
 #import "ClassA.h"
-void test()
+static void test()
 {
     NSLog(@"test ClassA");
 }
